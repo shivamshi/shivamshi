@@ -11,6 +11,7 @@
 <h4> 🕺Welcome to my Github Profile, here check out my projects and related stuff.<br>I am open for freelancing</h4>
 <br>📫 How to reach me shivam4skills@gmail.com
 
+# [Portfolio](https://shivamshi.github.io/portfolio/)
 ## 🌐 Socials and Coding Profile:
-too be uploaded soon
+too be updated soon
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamshi&label=Profile%20views&color=0e75b6&style=flat" alt="shivamshi" /> </p>
