@@ -4,13 +4,12 @@
 
 🕺 I'm a final year Computer Science Student at KIET (2024 batch)<br>
 🕺 I'm a React Native developer<br>
-🕺 I'm a Web Developer<br>
 🕺 I'm a Competitive Programmer<br>
-🕺 I'm a Machine Learning enthusiast<br>
+🕺 I'm a ML enthusiast<br>
+🕺 I'm a Web Developer<br>
 🕺 I'm a NCC Cadet<br>
-<h4> 🕺Welcome to my Github Profile, here check out my projects and related stuff.<br>I am open for freelancing</h4>
-<br>📫 How to reach me shivam4skills@gmail.com
-
+## Welcome to my Github Profile, here check out my projects and related stuff <br>I am open for freelancing 
+📫 How to reach me: shivam4skills@gmail.com
 # [Portfolio](https://shivamshi.github.io/portfolio/)
 ## 🌐 Socials and Coding Profile:
 too be updated soon
