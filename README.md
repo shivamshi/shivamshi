@@ -8,9 +8,8 @@
 🕺 I'm a Competitive Programmer<br>
 🕺 I'm a Machine Learning enthusiast<br>
 🕺 I'm a NCC Cadet<br>
-# 🕺Welcome to my Github Profile, here check out my projects and related stuff.<br>I am open for freelancing
-<br><br>📫 How to reach me shivam4skills@gmail.com
-
+<h4> 🕺Welcome to my Github Profile, here check out my projects and related stuff.<br>I am open for freelancing</h4>
+<br>📫 How to reach me shivam4skills@gmail.com
 
 ## 🌐 Socials and Coding Profile:
 too be uploaded soon
