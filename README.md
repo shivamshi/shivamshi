@@ -8,10 +8,10 @@
 🕺 I'm a ML enthusiast<br>
 🕺 I'm a Web Developer<br>
 🕺 I'm a NCC Cadet<br>
-## Welcome to my Github Profile, here check out my projects and related stuff <br>I am open for freelancing 
+# Welcome to my Github Profile, check out my projects and related stuff 
 📫 How to reach me: shivam4skills@gmail.com
 # [Portfolio](https://shivamshi.github.io/portfolio/)
-## 🌐 Socials and Coding Profile:
+# 🌐 Socials and Coding Profile:
 
 <div style="display: inline-block;">
 
