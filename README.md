@@ -38,10 +38,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shivamshi&label=Profile%20views&color=0e75b6&style=flat" alt="shivamshi" /> </p>
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shivamshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamshi&show_icons=true&locale=en&layout=compact" alt="shivamshi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamshi&show_icons=true&locale=en" alt="shivamshi" /></p>
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p><a href="https://www.buymeacoffee.com/cvcvcvcvcv"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cvcvcvcvcv" /></a></
