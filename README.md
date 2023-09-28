@@ -14,10 +14,7 @@
 ## 🌐 Socials and Coding Profile:
 
 <div style="display: inline-block;">
-<!-- Add all the logos and links here -->
-<a target="_blank" href="https://github.com/shivamshi" style="display: inline-block; margin-right: 10px;">
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"  style="width: 100px; height: auto;" />
-</a>
+
 <a target="_blank" href="https://www.linkedin.com/in/shivammmm/" style="display: inline-block; margin-right: 10px;">
 <img src="https://img.icons8.com/?size=50&id=13930&format=png"  style="width: 100px; height: auto;" />
 </a>					
