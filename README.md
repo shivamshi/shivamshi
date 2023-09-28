@@ -36,3 +36,12 @@
 </div>
 <br><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shivamshi&label=Profile%20views&color=0e75b6&style=flat" alt="shivamshi" /> </p>
+
+# 📊 GitHub Stats:
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamshi&show_icons=true&locale=en&layout=compact" alt="shivamshi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamshi&show_icons=true&locale=en" alt="shivamshi" /></p>
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
