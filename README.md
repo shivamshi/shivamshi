@@ -33,6 +33,9 @@
 <a target="_blank" href="https://codeforces.com/profile/cvcvcvcvcv" style="display: inline-block;">
 <img src="https://img.icons8.com/?size=256&id=GO78dOMqYNlA&format=png" alt="Codeforces" style="width: 100px; height: auto;" />
 </a>
+<a target="_blank" href="https://www.instagram.com/shivam_cv_/" style="display: inline-block;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Codeforces" style="width: 100px; height: auto;" />
+</a>
 </div>
 <br><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shivamshi&label=Profile%20views&color=0e75b6&style=flat" alt="shivamshi" /> </p>
