@@ -45,3 +45,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p><a href="https://www.buymeacoffee.com/cvcvcvcvcv"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cvcvcvcvcv" /></a></
+![Github Stats](https://github-readme-stats.vercel.app/api?username=shivamshi&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamshi&layout=compact) [![Leetcode Stats](https://leetcard.jacoblin.cool/cvcvcvcvcv?theme=wtf&ext=heatmap)](https://leetcode.com/millenium103)
