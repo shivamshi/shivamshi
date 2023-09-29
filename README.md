@@ -24,7 +24,7 @@
 <a target="_blank" href="https://leetcode.com/cvcvcvcvcv/" style="display: inline-block; margin-right: 10px;">
 <img src="https://img.icons8.com/?size=256&id=9L16NypUzu38&format=png" alt="LeetCode" style="width: 100px; height: auto;" />
 </a>
-<a target="_blank" href="https://www.codechef.com/users/shivammmm" style="display: inline-block; margin-right: 10px;">
+<a target="_blank" href="https://www.codechef.com/users/cvcvcvcvcv" style="display: inline-block; margin-right: 10px;">
 <img src="https://img.icons8.com/?size=256&id=4z2zrIWYmGqx&format=png" alt="CodeChef" style="width: 100px; height: auto;" />
 </a>
 <a target="_blank" href="https://www.hackerrank.com/cvcvcvcvcv" style="display: inline-block; margin-right: 10px;">
